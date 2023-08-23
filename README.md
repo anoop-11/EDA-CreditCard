@@ -1,6 +1,6 @@
 ## Gold Atlantis : Repaying The Credit
-##### • Title:- Credit Card Defaulter Analysis
-##### • Tool Used :
+#####  Title:- Credit Card Defaulter Analysis
+#####  Tool Used :
 ##### (i).  EDA (Exploratory Data Analysis) 
 ##### (ii). Python with Python Libraries - (Pandas , Matplotlib , Seaborn) 
 
